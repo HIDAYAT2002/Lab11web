@@ -2,7 +2,7 @@
 
 <Hr>
 
-| NAMA  :| HIDAYAT TULLOH |
+|NAMA  :|HIDAYAT TULLOH |
 | --- | --- |
 | NIM   :| 312010191 |
 | KELAS :| TI.20.B1 |
