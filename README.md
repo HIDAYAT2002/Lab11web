@@ -3,6 +3,7 @@
 <Hr>
 
 |NAMA   :|HIDAYAT TULLOH |
+| --- | --- |
 | NIM   :| 312010191 |
 | KELAS :| TI.20.B1 |
 | DOSEN :| Agung Nugroho,S.Kom.,M.Kom |
