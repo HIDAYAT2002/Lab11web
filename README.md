@@ -15,7 +15,7 @@
 1. Buka xampp Hidupkan Apache & Mysql
 ![image](SS/ss1.png)
 
-2. Bikin Create Table dilatihan1
+2. Bikin Create Table User 
 ![image](SS/ss2.png)
 
 3. Tampilan Login
