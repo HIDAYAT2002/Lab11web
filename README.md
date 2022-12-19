@@ -2,14 +2,14 @@
 
 <Hr>
 
-|NAMA   :|HIDAYAT TULLOH |
+|NAMA   |HIDAYAT TULLOH |
 | --- | --- |
-| NIM   :| 312110110 |
-| KELAS :| TI.21.B1 |
-| DOSEN :| Agung Nugroho,S.Kom.,M.Kom |
-| Matkul:| Pemograman web |
-|Pertemuan:| KE 12 |
-|Kampus :| UNIVERSITAS PELITA BANGSA |
+| NIM   | 312110110 |
+| KELAS | TI.21.B1 |
+| DOSEN | Agung Nugroho,S.Kom.,M.Kom |
+| Matkul| Pemograman web |
+|Pertemuan| KE 12 |
+|Kampus | UNIVERSITAS PELITA BANGSA |
 
 <Hr>
 
