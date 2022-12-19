@@ -16,13 +16,13 @@
 ![image](SS/ss1.png)
 
 2. Bikin Create Table dilatihan1
-![image](SS/ss2)
+![image](SS/ss2.png)
 
 3. Tampilan Login
-![image](SS/ss3)
+![image](SS/ss3.png)
 
 4. Masukan Username & Password
-![image](SS/ss4)
+![image](SS/ss4.png)
 
 5. Login Berhasil Munculnya Database
-![image](SS/ss5)
+![image](SS/ss5.png)
